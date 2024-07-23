@@ -518,5 +518,470 @@
     "user": "lucas2lul",
     "message": "Hello! How may I help you?",
     "timestamp": "2024-07-02T16:08:29.612Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T19:03:05.954Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T19:03:07.778Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T19:09:18.318Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T19:09:59.394Z"
+  },
+  {
+    "user": "lucas2lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T19:10:53.715Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T20:02:37.681Z"
+  },
+  {
+    "user": "lucas2lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T20:02:59.768Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T20:33:17.274Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T20:33:23.883Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T20:33:25.613Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Invalid action",
+    "timestamp": "2024-07-02T20:33:27.104Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T20:33:28.447Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "!service",
+    "timestamp": "2024-07-02T21:53:59.413Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose to buy. Send me more details about what you want to buy.",
+    "timestamp": "2024-07-02T21:54:12.199Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T21:54:16.687Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T21:54:19.400Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-02T21:54:24.926Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T21:54:28.804Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T21:54:31.855Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose to trade. Select one of the options:",
+    "timestamp": "2024-07-02T21:54:34.666Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "Invalid action",
+    "timestamp": "2024-07-02T21:54:40.088Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T21:54:41.888Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose to buy. Send me more details about what you want to buy.",
+    "timestamp": "2024-07-02T21:54:48.090Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T21:54:49.792Z"
+  },
+  {
+    "user": "andrecorrado",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T21:55:19.482Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-02T23:30:42.926Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:30:45.564Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T23:30:57.993Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Invalid action",
+    "timestamp": "2024-07-02T23:31:00.243Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:31:01.575Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:02.924Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:31:04.215Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:19.371Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-02T23:31:24.244Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:31.423Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Bundles. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:33.957Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Invalid action",
+    "timestamp": "2024-07-02T23:31:38.394Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:31:39.790Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:41.263Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:42.385Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:47.394Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:31:49.018Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to buy. Send me more details about what you want to buy.",
+    "timestamp": "2024-07-02T23:31:50.219Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:31:52.385Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to trade. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:53.717Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:31:56.658Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:31:58.586Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T23:32:04.181Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Invalid action",
+    "timestamp": "2024-07-02T23:32:23.664Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:32:44.297Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:32:45.679Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T23:32:49.021Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Invalid action",
+    "timestamp": "2024-07-02T23:32:51.642Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:33:06.803Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to buy. Send me more details about what you want to buy.",
+    "timestamp": "2024-07-02T23:33:12.861Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:33:32.017Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to trade. Select one of the options:",
+    "timestamp": "2024-07-02T23:33:34.206Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "Hello! How may I help you?",
+    "timestamp": "2024-07-02T23:34:13.098Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:34:16.310Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-02T23:34:29.081Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-02T23:34:30.592Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Choices. Select one of the options:",
+    "timestamp": "2024-07-02T23:34:31.958Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T13:22:35.762Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T13:22:40.177Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T13:22:43.133Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T13:37:13.349Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T13:37:15.370Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T13:37:16.742Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T14:07:10.302Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T14:07:12.244Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T14:07:13.506Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T14:13:18.506Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T14:13:20.391Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T14:13:21.871Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:14:23.358Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T16:14:25.034Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T16:14:27.049Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:21:10.546Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T16:21:12.643Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T16:21:13.639Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:31:34.579Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:40:40.063Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:47:39.209Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:51:59.587Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T16:57:57.584Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T16:57:58.896Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T16:57:59.971Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T17:06:07.953Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T17:06:09.667Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T17:06:10.679Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "!service",
+    "timestamp": "2024-07-23T17:11:49.131Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose to sell. Select one of the options:",
+    "timestamp": "2024-07-23T17:11:51.146Z"
+  },
+  {
+    "user": "lucas1lul",
+    "message": "You chose Single Games and Lists. Please send the games in a TXT file.",
+    "timestamp": "2024-07-23T17:11:52.276Z"
   }
 ]

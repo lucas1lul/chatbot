@@ -11,8 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "^2.3.0",
+    "axios": "^1.7.2",
+    "date-fns": "^3.6.0",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
-    "fs": "^0.0.1-security"
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.10.3",
+    "node-fetch": "^2.7.0",
+    "sqlite3": "^5.1.7"
   }
 }
